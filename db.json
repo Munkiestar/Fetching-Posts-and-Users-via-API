@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "image": "./user_photos/slika1.png"
+    },
+    {
+      "id": 1,
+      "image": "./user_photos/slika2.png"
+    },
+    {
+      "id": 2,
+      "image": "./user_photos/slika3.png"
+    },
+    {
+      "id": 3,
+      "image": "./user_photos/slika4.png"
+    },
+    {
+      "id": 4,
+      "image": "./user_photos/slika5.png"
+    },
+    {
+      "id": 5,
+      "image": "./user_photos/slika6.png"
+    },
+    {
+      "id": 6,
+      "image": "./user_photos/slika7.png"
+    },
+    {
+      "id": 7,
+      "image": "./user_photos/slika8.png"
+    },
+    {
+      "id": 8,
+      "image": "./user_photos/slika9.png"
+    },
+    {
+      "id": 9,
+      "image": "./user_photos/slika10.png"
+    }
+  ]
+}
